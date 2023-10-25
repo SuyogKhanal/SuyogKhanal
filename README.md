@@ -9,26 +9,24 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **MLOps.**
+- 🌱 I’m currently learning **LLMs**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 You can check my  **[Portfolio](https://suyogkhanal-portfolio.herokuapp.com/)**
+- 👨‍💻 You can check my  **[Portfolio](https://suyogkhanal.netlify.app/)**
 
-- 📫 How to reach me **countylover7@gmail.com**
+- 📫 How to reach me **8848suyog@gmail.com**
 
-- ⚡ Fun fact **I love cricket.**
+- ⚡ Beside Data **I ❤ Cricket and Football**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a>
     <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> </a> 
     <a href="https://mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a> 
     <a href="https://numpy.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/> </a> 
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/windows/48/000000/r-project.png"/></a> 
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/> </a> 
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a> 
     
 </p>
@@ -42,22 +40,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Suyog Khanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SuyogKhanal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Suyog Khanal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyogKhanal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Suyog Khanal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuyogKhanal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
